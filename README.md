@@ -4,4 +4,4 @@
 * [Emotion API × JavaScript 編](https://aka.ms/cogbot01_hol2)
 * [Emotion API × .NET Core 編](https://aka.ms/cogbot01_hol3)
 
-* Cognitive-Emotion-Windows Sample Direct Download Link: https://github.com/Microsoft/Cognitive-Emotion-Windows/archive/master.zip
+* ~~Cognitive-Emotion-Windows Sample Direct Download Link: https://github.com/Microsoft/Cognitive-Emotion-Windows/archive/master.zip~~
